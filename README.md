@@ -33,6 +33,5 @@
 | 1   | 21522541 | Cao Hoài Sang        | https://github.com/hSangg    | 21522541@gm.uit.edu.vn |
 | 2   | 21521897 | Thi Thành Công       | https://github.com/Aransu    | 21521897@gm.uit.edu.vn |
 | 3   | 21522258 | Nguyễn Trần Gia Kiệt | https://github.com/KietGia22 | 21522258@gm.uit.edu.vn |
-| 4   | 21521546 | Nguyễn Gia Toàn      | https://github.com/aaa       | 21521546@gm.uit.edu.vn |
 
 ## NẾU BẠN THẤY REPO NÀY HAY HÃY CHO NHÓM CHÚNG MÌNH 1 SAO NHÉ ⭐
